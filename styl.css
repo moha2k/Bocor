@@ -829,9 +829,9 @@ nav .container .links .active{
     background: white;
     border-radius: 30px;
     padding: 0px 41px;
-    width: 40%;
+/*     width: 40%; */
     position: relative;
-    left: 30%;
+/*     left: 30%; */
     overflow: hidden;
     /* margin-left: 140px; */
 }
