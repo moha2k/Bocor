@@ -742,6 +742,12 @@ nav .container .links .active{
 .section9 .container .moon ul li{
     text-align: center;
 }
+.section9 .container .moon ul .active{
+    color: rgb(255, 196, 0);
+}
+.section9 .container .moon ul li:hover{
+    color: rgb(255, 196, 0);;
+}
 .section9 .container{
     padding: 20px 20px;
 }
